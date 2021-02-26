@@ -15,9 +15,9 @@ This project is developed on Python Platform. This is a simple BMI calculation t
 
 ###### Run Project
 > $ **python3**
-> >>> **from bmi_calculator import main**
-> >>> **import json**
-> >>> **json_path = <json path>**
-> >>> **fp = open(json_path, )**
-> >>> **data = json.loads(fp.readlines()[0])**
-> >>> **main.calculate(data)**
+> - >>> **from bmi_calculator import main**
+> - >>> **import json**
+> - >>> **json_path = <json path>**
+> - >>> **fp = open(json_path, )**
+> - >>> **data = json.loads(fp.readlines()[0])**
+> - >>> **main.calculate(data)**
